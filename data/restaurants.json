@@ -1,0 +1,20 @@
+[
+  { "id": "r001", "name": "サイゼリヤ", "genre": "イタリアン・フレンチ", "hasLunch": true },
+  { "id": "r002", "name": "リンガーハット", "genre": "中華", "hasLunch": true },
+  { "id": "r003", "name": "松屋", "genre": "洋食", "hasLunch": true },
+  { "id": "r004", "name": "はなまるうどん", "genre": "和食", "hasLunch": true },
+  { "id": "r005", "name": "CoCo壱番屋", "genre": "洋食", "hasLunch": true },
+  { "id": "r006", "name": "餃子の王将", "genre": "中華", "hasLunch": true },
+  { "id": "r007", "name": "やよい軒", "genre": "和食", "hasLunch": true },
+  { "id": "r008", "name": "スターバックス", "genre": "カフェ・スイーツ", "hasLunch": false },
+  { "id": "r009", "name": "町の中華 一心", "genre": "中華" },
+  { "id": "r010", "name": "手打ち蕎麦 じゅん", "genre": "和食" },
+  { "id": "r011", "name": "食堂かなえ", "genre": "和食" },
+  { "id": "r012", "name": "麺屋 風雅", "genre": "ラーメン" },
+  { "id": "r013", "name": "トラットリア・ソーレ", "genre": "イタリアン・フレンチ" },
+  { "id": "r014", "name": "韓国家庭料理 ハンマウム", "genre": "韓国料理" },
+  { "id": "r015", "name": "焼鳥 とりや", "genre": "居酒屋", "hasLunch": false },
+  { "id": "r016", "name": "ダイニングバー Luna", "genre": "バー・カクテル", "hasLunch": false },
+  { "id": "r017", "name": "本格インドカレー マサラ", "genre": "各国料理", "hasLunch": true },
+  { "id": "r018", "name": "焼肉 牛心", "genre": "焼肉・ホルモン", "hasLunch": false }
+]
