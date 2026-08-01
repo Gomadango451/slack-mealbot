@@ -4,7 +4,7 @@ import { loadRestaurants, mergeRestaurants, saveRestaurants } from '../lib/resta
 const respondExpired = (respond) =>
   respond({
     replace_original: true,
-    text: '取得結果の有効期限が切れました。もう一度 `/lunch-fetch` を実行してください。',
+    text: '取得結果の有効期限が切れました。もう一度 `/meal-fetch` を実行してください。',
   });
 
 const lunchFetchOverwriteCallback = async ({
